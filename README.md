@@ -3,57 +3,37 @@
 
 # Reflective Practice
 
-Overall I have been very pleased with the analysis and application of the skills that I have learned over the course of the Data Technician Skills Bootcamp. My mathematical background, 25 years in teaching Maths, and thirst for knowledge and improving myself, meant that I was able to grasp the knowledge and skills delivered and use them to a high level to not only analyse the data but also tell the stories behind it and communicate the results and indicate the required direction for the data to be improved.
 
-Having said that, it hasn't come without its challenges, but I have persevered and taken every opportunity to learn the new content and embed it in my processes. I plan to go back over some of the content that I have been previously less familiar with, particularly Tableau, Power BI and Azure, to further my understanding of these systems and how they all fit together as a single entity in a business environment.
-
-
-## Excel
-
-I already had quite an extensive knowledge of Microsoft Excel and its features, having completed a large amount of data analysis in schools as a Maths Teacher and a Deputy Head of Maths, but I really enjoyed learning some of the aspects that I have never really considered before, such as actually labelling a data set as a table, using some less known formulae, and I found that I had not been using PivotTables to their full advantage.
-
-In education, I had used Excel for relatively large datasets, which at times did cause issues with processing speed because of the complexity of some of the formulae that I used, however I can see great potential for making the data analysis in some schools so much more straight forward and streamlined.
-
-I would also look forward to being able to make more use of macros for automating tasks.
+## Description
+Over the course of the 8-week Data Technician Skills Bootcamp, I have learned and applied a wide range of new skills, including Excel, Tableau, Power BI, SQL, Microsoft Azure, and Python. These tools were introduced to help with data analysis, visualization, and communication, and I was tasked with applying them to real-world scenarios. While my prior experience in mathematics and teaching gave me a solid foundation for understanding data analysis, many of the tools, particularly Tableau, Power BI, and Azure, were entirely new to me, presenting unique challenges and opportunities for growth.
 
 
-## Tableau
-
-This was quite a new topic for me, although I had done work with databases in Microsoft Access as part of my A Level Computing, as it was nice to see that so much of that knowledge came flooding back, and it helped me to grasp the concepts that I had never really considered before as important for when setting up new databases and maintaining its use.
-
-I will be going back over the theory and practicalities of the set up, and experimenting with some further datasets from the likes of Kaggle.
-
-I really like the interactivity gained by using the dashboarding tools and how easy it is to share this with others. I will be looking at making full use of the insights that it gives.
+## Feelings
+Overall, I felt excited and motivated throughout the course. I particularly enjoyed Python and SQL, as they appealed to my logical way of thinking and problem-solving nature. While I initially found some tools, like Power BI and Azure, challenging due to their complexity and the volume of new terminology, I also felt a sense of accomplishment when I managed to navigate these systems and produce meaningful insights. At times, challenges arose when such as trying to fully understand Azure’s broad range of services or when encountering limitations in the labs. However, this only deepened my determination to improve.
 
 
-## Power BI
-
-Wow! This really got me having to concentrate and think hard. There was a lot of new terminology to take in specific to databases and how they are configured. Thankfully, my extensive experience with Microsoft Office apps meant that I was familiar with a lot of the way Power BI's interface works, and so I was able to follow the instructions in the labs to successfully achieve some very nice vaisualisations and dashboards, and use them to help identify trends and where improvements could be made.
-
-Again, this is definitely somewhere I need to give myself more time and experience on to familiarise myself further with Power BI and just how useful a tool it can be.
+## Evaluation
+The experience was overwhelmingly positive. My extensive prior knowledge of Excel allowed me to delve deeper into advanced features, such as using tables, macros, and optimizing PivotTables. My success in Python and SQL reaffirmed my confidence in my logical thinking and coding abilities, while Tableau’s user-friendly interface enabled me to create interactive dashboards, which I found highly rewarding. However, challenges like understanding Power BI’s database configuration and Azure’s vast array of services reminded me of the steep learning curve that comes with new systems. Despite these hurdles, I felt that my persistence and adaptability paid off, as I was able to make steady progress.
 
 
-## SQL
-
-This was really fun for me. It's been quite some time since I had done any significant coding, except for using VBA finetuning macros in Excel, but I have had some coding experience of varying levels since I was 11 years old. This meant that I have a good understanding of how algorithms need to work, and just needed to then apply this to the syntax needed for SQL.
-
-
-I will certainly be looking to explore further commands available in SQL to analyse data and interact more with compatible systems. I am still getting to grips with the structure needed for some of the syntax but I am getting there, with motivation to excel in this area.
+## Analysis
+The challenges I faced with Power BI and Azure highlighted areas where I needed to allocate more time and effort. Power BI required me to understand database structures and new terminology, but my familiarity with Microsoft applications helped me navigate the interface. Similarly, Azure’s licensing limitations and its extensive service options meant I couldn’t explore it as deeply as I would have liked. Conversely, my prior experience with Excel and my aptitude for logical thinking greatly supported my success in Python, SQL, and data visualization tasks. I learned that while prior knowledge can be a strong foundation, continuous learning and adaptability are key to mastering new tools.
 
 
-## Azure
-
-This was a tough topic, largely because trying to remember which of the 200+ services included in Azure that I would need to use. There is a lot of overlap between the different services so choosing the correct one(s) is not an easy task. With so much new terminology to learn as well (including Microsoft specific terms), this was a complex area to navigate through.
-
-Due to licensing of Azure, this work could only be done through the labs so limited the opportunity to have a proper play around with the suite of services, and one of the labs did not work fully meaning that I have a lot that I really want to try out and realise the full potential of what it has to offer. However, the Bootcamp course has reignited my love of learning so if I have the chance to use licensed versions of Azure's services I will be sure to make the most of the opportunity.
+## Conclusion
+From this experience, I have realized that while I excel in grasping logical and structured concepts like Python and SQL, I need to dedicate more time to improving my understanding of tools like Power BI and Azure. I also learned the importance of perseverance when faced with challenges and how utilizing available resources, such as AI for Python, can enhance productivity. The course has reignited my passion for learning and problem-solving, reinforcing my commitment to refining my skills and applying them effectively in a business environment.
 
 
-## Python
+## Action Plan
 
-Not only have I loved this part due to my keen and logical thinking making it an ideal skill for me to develop, I have also found just how useful AI can be to help with productivity when used correctly. The different syntax to some other languages has sometimes thrown me off a little (such as when to use regular parentheses or square or curly ones), but as I was aware of the command words required, the intuitive Gemini AI made suggestions of how the syntax should look and so I was able to use that as a guide to make it appropriate and efficient for what I needed it to do.
+To continue my development, I will:
 
-I had a lot of fun with Python and love its flexibility, but there is so much more to explore in it than I have managed to discover so far. I look forward to embarking on the journey to expand my knowledge and skills of Python.
-
+* Revisit and consolidate my knowledge of Tableau, Power BI, and Azure by exploring additional datasets (e.g., from Kaggle) and seeking further training or resources.
+* Experiment with more advanced features in Excel, such as macros, to automate tasks and improve efficiency.
+* Explore additional SQL commands and practice creating more complex queries to enhance my database management skills.
+* Dedicate time to learning Python libraries (e.g., Pandas, NumPy, and Matplotlib) to expand my capabilities in data analysis and visualization.
+* Look for opportunities to work on real-world projects that integrate multiple tools to understand how they function together in a business setting.
+* Stay motivated by setting specific goals for each tool and tracking my progress over time.
 
 
 Back to [Welcome Page](https://andypeacock215.github.io/Welcome-To-My-Profile/)
