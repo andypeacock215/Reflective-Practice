@@ -24,16 +24,55 @@ The challenges I faced with Power BI and Azure highlighted areas where I needed 
 From this experience, I have realized that while I excel in grasping logical and structured concepts like Python and SQL, I need to dedicate more time to improving my understanding of tools like Power BI and Azure. I also learned the importance of perseverance when faced with challenges and how utilizing available resources, such as AI for Python, can enhance productivity. The course has reignited my passion for learning and problem-solving, reinforcing my commitment to refining my skills and applying them effectively in a business environment.
 
 
-## Action Plan
+## Action Plan [^1]
 
-To continue my development, I will:
+### 1. Master Tableau and Power BI (Start January 2025)
+* **Specific:** Revisit lessons on Tableau and Power BI, practice creating interactive dashboards, and work with at least three datasets from Kaggle.
+* **Measurable:** Complete three datasets, each with a full set of visualizations and dashboards, and share them with peers for feedback.
+* **Achievable:** Dedicate two hours per week to practice and use online tutorials and documentation as support.
+* **Relevant:** Improving skills in Tableau and Power BI will enhance my ability to visualize data and communicate insights effectively.
+* **Time-bound:** Complete this goal within six weeks.
 
-* Revisit and consolidate my knowledge of Tableau, Power BI, and Azure by exploring additional datasets (e.g., from Kaggle) and seeking further training or resources.
-* Experiment with more advanced features in Excel, such as macros, to automate tasks and improve efficiency.
-* Explore additional SQL commands and practice creating more complex queries to enhance my database management skills.
-* Dedicate time to learning Python libraries (e.g., Pandas, NumPy, and Matplotlib) to expand my capabilities in data analysis and visualization.
-* Look for opportunities to work on real-world projects that integrate multiple tools to understand how they function together in a business setting.
-* Stay motivated by setting specific goals for each tool and tracking my progress over time.
 
+### 2. Develop Advanced Excel Skills (Start February 2025)
+* **Specific:** Learn to create and use macros to automate data analysis tasks and refine my use of PivotTables.
+* **Measurable:** Build at least three macros that automate different types of tasks and optimize three large datasets with PivotTables.
+* **Achievable:** Spend one hour per week reviewing tutorials and testing features on datasets I used during the bootcamp.
+* **Relevant:** Advanced Excel knowledge will streamline future data analysis workflows and improve productivity.
+* **Time-bound:** Achieve this goal within four weeks.
+
+
+### 3. Enhance SQL Proficiency (overlap with 1 and 2)
+* **Specific:** Explore additional SQL commands, including advanced joins, subqueries, and stored procedures, by solving practice exercises.
+* **Measurable:** Complete at least 20 SQL challenges on platforms like SQLZOO or HackerRank.
+* **Achievable:** Dedicate 90 minutes weekly to structured practice and review.
+* **Relevant:** Advanced SQL skills are critical for querying databases and analyzing data in business environments.
+* **Time-bound:** Accomplish this within eight weeks.
+
+
+### 4. Expand Python Knowledge (Start end of February 2025)
+* **Specific:** Learn to use Python libraries like Pandas, NumPy, and Matplotlib for data analysis and visualization.
+* **Measurable:** Create three mini-projects: a data cleaning script (Pandas), a statistical analysis report (NumPy), and a visualization dashboard (Matplotlib).
+* **Achievable:** Dedicate two hours per week and leverage AI tools like Gemini or ChatGPT for guidance.
+* **Relevant:** Python is a versatile tool for data analysis and automation, aligning directly with my career goals.
+* **Time-bound:** Complete all mini-projects within six weeks.
+
+
+### 5. Familiarize Myself with Microsoft Azure (Start end of February 2025)
+* **Specific:** Review Azure services relevant to data analysis, including Data Factory and SQL Database, and set up sample projects in labs.
+* **Measurable:** Complete three lab-based exercises focusing on different Azure services.
+* **Achievable:** Spend one hour per week accessing lab environments and reviewing Microsoft Azure documentation.
+* **Relevant:** Understanding Azure will help integrate cloud-based data analysis solutions in real-world projects.
+* **Time-bound:** Complete this goal within eight weeks.
+
+
+### 6. Work on an Integrated Project (Start end of March 2025)
+* **Specific:** Create a project that integrates Excel, Tableau, Power BI, SQL, Python, and Azure to simulate a business scenario.
+* **Measurable:** Design a project proposal, complete the analysis, and present findings in a dashboard format.
+* **Achievable:** Dedicate four hours per week to planning and execution, building on existing knowledge.
+* **Relevant:** This project will solidify my ability to combine multiple tools, a key requirement in professional data analysis roles.
+* **Time-bound:** Complete the project within eight weeks.
+
+[^1]: Time frame/order may change dependent on priorities for job applications
 
 Back to [Welcome Page](https://andypeacock215.github.io/Welcome-To-My-Profile/)
