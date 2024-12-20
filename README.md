@@ -75,5 +75,5 @@ From this experience, I have realized that while I excel in grasping logical and
 
 [^1]: Time frame/order may change dependent on priorities for job applications
 
-##
+
 Back to [Welcome Page](https://andypeacock215.github.io/Welcome-To-My-Profile/)
